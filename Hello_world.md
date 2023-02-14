@@ -1,6 +1,6 @@
 ## Привет!
 
-Absolutely!
+Absolutely true!
 
 1. Create Github account
 2. Set local repository
